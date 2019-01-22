@@ -1,6 +1,6 @@
 # Pleasure_Tower
 Game I'm currently working on... </br>
-Falling mechanic
+Falling type of game
 
 ## gameplay ##
 ![](gameplayPT.gif)
